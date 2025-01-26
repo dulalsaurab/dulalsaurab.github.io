@@ -34,6 +34,11 @@ I stood up and looked at her, noticing something new. She was aging. “You have
 I knew I was old too. A long, long time must have passed. But then again, age is irrelevant when you encounter bliss. I looked at her and sang softly, 
 
 ```
+धेरै लामो बाटो हामी
+सँग-सँगै हिँडी सक्यौं
+टाढा-टाढा कता-कता
+हामी दुवै पुगी सक्यौं
+
 तर अन्त्य यसको यहीँ
 तर अन्त्य यसको यहीँ
 भन्न अझै मनै भएन
