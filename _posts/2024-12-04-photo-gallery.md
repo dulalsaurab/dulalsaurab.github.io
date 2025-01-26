@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with image galleries
-date: 2024-12-04 01:59:00
-description: this is what included image galleries could look like
+title: Read these papers
+date: 2025-01-26 08:45:00
+description: papers from system desing and security and all
 tags: formatting images
 categories: sample-posts
 thumbnail: assets/img/9.jpg
@@ -12,7 +12,11 @@ images:
   spotlight: true
   venobox: true
 ---
+Read these papers
 
+
+System Design
+-------------
 1. Google File System (GFS): 
 (https://lnkd.in/gNxqFMwF)
 
@@ -66,4 +70,5 @@ images:
 18. Napa - Partitioning Algorithm: 
 (https://lnkd.in/gjguksXB)
 
----
+Security
+--------
