@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflection, could be a dream
-date: 2025-05-12 15:53:00-0400
+date: 2025-01-26 07:00:00-0400
 description: Reflection, could be a dream
 tags: formatting blockquotes
 categories: sample-posts
