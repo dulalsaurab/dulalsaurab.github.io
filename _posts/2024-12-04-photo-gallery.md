@@ -13,85 +13,57 @@ images:
   venobox: true
 ---
 
-The images in this post are all zoomable, arranged into different mini-galleries using different libraries.
+1. Google File System (GFS): 
+(https://lnkd.in/gNxqFMwF)
 
-## [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/)
+2. MapReduce:  (https://lnkd.in/gc4bqa8W)
 
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
+3. Borg Cluster Management: 
+ (https://lnkd.in/gUQCuJpD)
 
----
+4. Amazon DynamoDB: 
+(https://lnkd.in/ghzF8jRj)
 
-## [PhotoSwipe](https://photoswipe.com/)
+5. Google Chubby Locking Service: 
+(https://lnkd.in/g-G9hM9J)
 
-<div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started">
-  <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
-    data-pswp-width="1669"
-    data-pswp-height="2500"
-    target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" />
-  </a>
-  <!-- cropped thumbnail: -->
-  <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-2500.jpg"
-    data-pswp-width="1875"
-    data-pswp-height="2500"
-    data-cropped="true"
-    target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-200.jpg" alt="" />
-  </a>
-  <!-- data-pswp-src with custom URL in href -->
-  <a href="https://unsplash.com"
-    data-pswp-src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"
-    data-pswp-width="2500"
-    data-pswp-height="1666"
-    target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" alt="" />
-  </a>
-  <!-- wrapped with any element: -->
-  <div>
-    <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg"
-      data-pswp-width="2500"
-      data-pswp-height="1667"
-      target="_blank">
-      <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg" alt="" />
-    </a>
-  </div>
-</div>
+6. Spanner: 
+(https://lnkd.in/giEv9CYm)
 
----
+7. BigTable: 
+(https://lnkd.in/gqddJyE8)
 
-## [Spotlight JS](https://nextapps-de.github.io/spotlight/)
+8. Facebook Cassandra (Distributed NoSQL DB): 
+ (https://lnkd.in/eD9erCNu)
 
-<!-- Group 1 -->
-<div class="spotlight-group">
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" />
-    </a>
-</div>
-<!-- Group 2 -->
-<div class="spotlight-group">
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg" />
-    </a>
-</div>
+9. ElasticSearch Architecture: 
+(https://lnkd.in/gvHAQhas)
+
+10. Redis Architecture: 
+ (https://lnkd.in/gkENeYKh)
+
+11. LinkedIn Kafka (PubSub): 
+ (https://lnkd.in/eGcagdRA)
+
+12. Facebook Memcache (KV Store): 
+(https://lnkd.in/eYZM5SPb)
+
+13. Dapper Tracing System: 
+(https://lnkd.in/gmqgEMyW)
+
+14. Zanzibar Authentication System: 
+](https://lnkd.in/gJ7m_bha)
+
+15. Pregel Graph Processing: 
+(https://lnkd.in/g6usKZci)
+
+16. Meta XFaaS (Serverless Functions): 
+ (https://lnkd.in/eHqbPXpH)
+
+17. Napa - Data Warehousing: 
+(https://lnkd.in/gi34K37Z)
+
+18. Napa - Partitioning Algorithm: 
+(https://lnkd.in/gjguksXB)
 
 ---
-
-## [Venobox](https://veno.es/venobox/)
-
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
