@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: dis connect # blog_name will be displayed in your blog page
+blog_description: sometime something else
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -116,19 +116,19 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: dis connect # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
+#   - name: Google Blog
+#     posts:
+#       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#         published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -150,7 +150,7 @@ collections:
     output: true
     permalink: /:collection/:title/
   projects:
-    output: true
+    output: false
     permalink: /:collection/:title/
 
 announcements:
@@ -267,8 +267,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Dulal]
+  first_name: [Saurab]
 
   style: apa
   locale: en
