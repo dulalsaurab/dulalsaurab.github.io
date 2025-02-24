@@ -2,7 +2,7 @@
 layout: post
 title: Roll Number 48: A Twist of Fate
 date: 2025-01-25 07:00:00-0400
-description: 48th Roll Number: A Twist of Fate
+description: 48th Roll Number - A Twist of Fate
 tags: formatting blockquotes
 categories: sample-posts
 giscus_comments: true
