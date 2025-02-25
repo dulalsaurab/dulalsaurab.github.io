@@ -127,17 +127,17 @@ I ran towards Advance Engineering College and reached in 13 minutes. I went stra
 
 Everybody who makes these decisions are in a meeting, and I would have to wait until it was over. 
 
-"What?" I screamed, second scream of the day. 
+"What?" I screamed, the second scream of the day. 
 
 "I can’t wait! I need the money now!" 
 
-There was no luck. Fifteen minutes passed with nothing but back-and-forth. I was extremely angry, but that didn’t help. I was dejected, my hope slipping away once again. I was so anxious, I could feel my heart racing. I asked the guy, 
+There was no luck. Fifteen minutes passed with nothing but back-and-forth. I was extremely angry, but that didn’t help. I was dejected, my hope slipping away once again. I was so anxious, that I could feel my heart racing. I asked the guy, 
 
 "Where is this meeting going on?"
 
 "Next building, second floor. But you can’t go there."
 
-"I can," I said. "This is now or never for me!" I don’t care anymore. I don’t want to study in your college! 
+"I can," I said. "This is now or never for me!" I don’t care anymore. I don’t want to study at your college! 
 
 I rushed towards the other building, and that’s when I saw Prashant Sir, a teacher I had respected deeply during my coaching class at PEA. He was getting off his old bike.
 "Hello, Sir, I’m Saurab." He didn’t remember me, and I understood. I explained my situation. He said, "Let me see what I can do." Together, we went to the administrative building, 3rd floor. Since he was a board member, the administrative staff couldn’t deny his authority. He gave me the money—175,000 rupees. In that moment, tears dropped for the second time that day. But the money wasn’t exactly the full amount. I had paid 200,000 earlier. 
@@ -158,15 +158,15 @@ And then... another twist again. There was nobody in there.
 
 What the hell? It was 4:30 PM, and everyone had probably left since it was Friday.
 
-All my efforts, the rush, the fight, the tension—it all seemed in vain. I couldn’t reserve my seat. I was devastated again. That’s when a thought hit me: “If something can go wrong, it will go wrong.” I don’t remember who said it back then, but it jolted through my mind. I sat down on a wooden chair in front of the administrative room, completely alone. Nobody was around. I could cry. In fact, I did. This time, the tears weren’t of joy, but of despair and loss.
+All my efforts, the rush, the fight, the tension—it all seemed in vain. I couldn’t reserve my seat. I was devastated again. That’s when a thought hit me: “If something can go wrong, it will go wrong.” I don’t remember who said it back then, but it jolted through my mind. I sat down on a wooden chair in front of the administrative room, completely alone. Nobody was around. I could cry. I did. This time, the tears weren’t of joy, but of despair and loss.
 
 A few minutes passed, and then I heard footsteps coming from the restroom. And that’s when I saw the MAM coming out. She looked at me and said, 
 
 "Hait bhai, kasto dhila garya bhanya, yetro ber lagaune ho? Ma ta jhandai niski sakya theya, dhanna aaye chau.” ( Hey brother, why are you so late, taking so much time? I was about to leave, but I’m glad you came). 
 
-It was as if the universe had conspired for me. In that moment, I thought of Paulo Coelho’s "The Alchemist": “When you want something, all the universe conspires in helping you to achieve it.” Deposit at Advance College, The cricket match, Kabindra Gautam, the secondary list, that MAM, Prashant Sir—all of these were part of the universe's plan to help me.
+It was as if the universe had conspired for me. At that moment, I thought of Paulo Coelho’s "The Alchemist": “When you want something, all the universe conspires in helping you to achieve it.” Deposit at Advance College, The cricket match, Kabindra Gautam, the secondary list, that MAM, Prashant Sir—all of these were part of the universe's plan to help me.
 
 That day became the best day of my life. I was on cloud nine—ecstatic. I wish my family could have seen my face. Anyone who saw me that day must have known—I had hit the jackpot.
 Finally, I got admitted to Computer Science, Batch of 2010 (067). That’s why my roll number was 48, despite some being alphabetically before me. 
 
-A fork in my universe, a fork that made me get in Computer Science. 
+A fork in my universe, a fork that made me get into Computer Science. 
