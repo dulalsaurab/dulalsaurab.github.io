@@ -147,12 +147,12 @@ Now, on the basis of the selected method, server start sending the packets, eith
 
 [**Github Project Repo**](https://github.com/dulalsaurab/Reliable-data-transfer-using-UDP)
 
-## References
+<!-- ## References -->
 
-[ 1 ] _[https://www.macs.hw.ac.uk/~pjbk/nets/protocolsimulations/abp.html](https://www.macs.hw.ac.uk/~pjbk/nets/protocolsimulations/abp.html)_, Alternating Bit Protocol Simulator.  
+<!-- [ 1 ] _[https://www.macs.hw.ac.uk/~pjbk/nets/protocolsimulations/abp.html](https://www.macs.hw.ac.uk/~pjbk/nets/protocolsimulations/abp.html)_, Alternating Bit Protocol Simulator.  
 [ 2 ] _[https://github.com/mamgad/RUDPy](https://github.com/mamgad/RUDPy),_ implementation of UDP client/server.  
 [ 3 ] _Kuros, Ross 2017, Computer Networking – A top down approach 6th edition, Boston Massachusetts, and New York_.    
 [ 4 ] _[https://www.draw.io/](https://www.draw.io/),_ Creation of flow chart, class diagrams, and state diagrams.   
 [ 5 ] _[https://staff.fnwi.uva.nl/b.diertens/psf/specifications/abp.html](https://staff.fnwi.uva.nl/b.diertens/psf/specifications/abp.html),_ The Alternating Bit Protocol.   
 [ 6 ] _[https://www.ietf.org/rfc/rfc1216.txt](https://www.ietf.org/rfc/rfc1216.txt),_ Alternating Bit Protocol.   
-[ 7 ] _[http://www.geeksforgeeks.org/sliding-window-protocol-set-](http://www.geeksforgeeks.org/sliding-window-protocol-set-) 3 - selective-repeat/,_ Sliding Window Protocol | Set 3 (Selective Repeat).   
+[ 7 ] _[http://www.geeksforgeeks.org/sliding-window-protocol-set-](http://www.geeksforgeeks.org/sliding-window-protocol-set-) 3 - selective-repeat/,_ Sliding Window Protocol | Set 3 (Selective Repeat).    -->

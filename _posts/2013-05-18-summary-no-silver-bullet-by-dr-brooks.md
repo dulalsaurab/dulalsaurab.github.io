@@ -11,7 +11,7 @@ text-align: justify;}
 </style>
 <!-- feature-img: "assets/img/nosilverbullet.jpg" -->
 ![Silver Bullet](/assets/img/nosilverbullet.jpg "Silver Bullet")
-###### *Image Credit: <https://goo.gl/LkSG6K>*    
+<!-- ###### *Image Credit: <https://goo.gl/LkSG6K>* -->
 
 ### **No Silver Bullet**   
    *-Essence and Accident in Software Engineering* 
