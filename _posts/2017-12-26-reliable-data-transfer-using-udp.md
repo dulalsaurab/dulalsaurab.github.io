@@ -44,7 +44,7 @@ The server facilitates the file transfer process via various methods existing in
 
 
 ## Architecture Diagram
-![alt text](https://github.com/dulalsaurab/dulalsaurab.github.io/blob/master/assets/img/Arctitech%20.png?raw=true)
+![alt text](/assets/img/Arctitech .png)
 ```
 Figure: UDP file download system architecture
 ```
@@ -58,7 +58,7 @@ The high-level flow, state and the class diagram of the project are shown below.
 
 The flow diagram of the UPD file transfer is shown in the image below.
 
-![alt text](https://github.com/dulalsaurab/dulalsaurab.github.io/blob/master/assets/img/flow%20chart.png?raw=true)
+![alt text](/assets/img/flow chart.png)
 
 ```
 Figure: Flow Diagram - UPD file download process using client-server model
@@ -68,23 +68,23 @@ _Note: The symbols used in the flow diagram are adopted from the standard flow d
 
 ## State Diagram
 
-![alt text](https://github.com/dulalsaurab/dulalsaurab.github.io/blob/master/assets/img/State%20Diagram%20Client%20Server.png?raw=true)
+![alt text](/assets/img/State Diagram Client Server.png)
 
 ```
 Figure: State diagram, client-server - request-response process
 ```
-![alt text](https://github.com/dulalsaurab/dulalsaurab.github.io/blob/master/assets/img/State%20Diagram%20AB.png?raw=true)
+![alt text](/assets/img/State Diagram AB.png)
 ```
 Figure: State Diagram - Alternate bit protocol
 Reference: Computer Networking – A top-down approach 6th edition, Kurose, Ross
 ```
 
 ## Class Diagrams
-![alt text](https://github.com/dulalsaurab/dulalsaurab.github.io/blob/master/assets/img/Class%20Client.png?raw=true)
+![alt text](/assets/img/Class Client.png)
 ```
 Figure: Class Diagram UDP Client Program
 ```
-![alt text](https://raw.githubusercontent.com/dulalsaurab/dulalsaurab.github.io/d34708152907091142a0f6071d7b49fce03b7edb/assets/img/Class%20Diagram%20Server.png)
+![alt text](/assets/img/Class Diagram Server.png)
 ```
 Figure: Class Diagram UDP Server Program
 ```
