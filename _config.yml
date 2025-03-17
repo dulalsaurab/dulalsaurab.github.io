@@ -181,12 +181,12 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-header_pages:
-  - _pages/about.md
-  - _pages/blog.md
-  - _pages/publications.md
+# header_pages:
+#   - _pages/about.md
+#   - _pages/blog.md
+#   - _pages/publications.md
 
-include: ["_pages/blog.md, _pages/publications.md"]
+include: ["_pages"]
 exclude:
   - bin/
   - CONTRIBUTING.md

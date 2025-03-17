@@ -23,7 +23,7 @@ margin-right: auto;
 body {
 text-align: justify}
 </style>
-**Note:**: This is an archive post from 2013 and octree construction is used for NNS. 
+**Note:**: This is an archive post from 2013 and octree construction is used for Nearest Neighbor Search (NNS). 
 
 Octree is a type of data-structure especially used for particle tracking in CFD(computational fluid dynamics) and also for the nearest neighbor search. 
 It is also a space partition method which is similar to binary tree but having 
