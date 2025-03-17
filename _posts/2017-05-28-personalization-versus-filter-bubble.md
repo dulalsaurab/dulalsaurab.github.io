@@ -17,6 +17,7 @@ tags: [Eli Parser, Filter Bubble, Personalization]
 body {
 text-align: justify;
 }
+
 .responsive-img {
   max-width: 100%;
   height: auto;

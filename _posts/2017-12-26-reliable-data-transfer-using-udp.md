@@ -81,7 +81,7 @@ _Note: The symbols used in the flow diagram are adopted from the standard flow d
 ```
 Figure: State diagram, client-server - request-response process
 ```
-![alt text](/assets/img/State Diagram AB.png)
+![alt text](/assets/img/state_diagram_AB.png){: .responsive-img}
 ```
 Figure: State Diagram - Alternate bit protocol
 Reference: Computer Networking – A top-down approach 6th edition, Kurose, Ross
