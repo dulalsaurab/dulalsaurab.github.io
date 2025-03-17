@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='DULAL.SAURAB@GMAIL.COM'>DULAL.SAURAB@GMAIL.COM</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Walmart Inc.</p>
-    <p>0.3% of 0.3% of 100%</p>
+    # <p>Walmart Inc.</p>
+    # <p>0.3% of 0.3% of 100%</p>
     <p>Sterling, Virginia</p>
 
 news: false # includes a list of news items
@@ -18,4 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Computer science Ph.D. specializing in internet architecture, data-centric systems, and security. Strong background in software engineering, system design, and optimized programming. Excellent communication, writing, and teamwork skills demonstrated through industry experience, research publications, and presentations. Have several years of experience in network programming, TCP/IP, Linux/Unix, Bash, and Git. Also have been programming for over 10 years, with expertise in C/C++, Python, Go, and react.
+I am fascinated by patterns of life, the evolution of humans, machines, and the self. I enjoy reflecting on the past, particularly events that have affected me and those around me, and exploring the consequences these incidents had on the people (friends, family), places (home), and objects connected to them. I love reading fiction, although I am not very skilled at writing. I delve into science to better understand the external world, and I explore spirituality to gain insight into the self and our connections.
+
+I believe that computers are the most beautiful machines ever created by humanity, and I have dedicated most of my professional life to working with them.
+
+Currently, I am a security engineer at Walmart Global Tech, where I focus on combating cyberattacks, bots, and DDoS threats. I am passionate about various aspects of computing, including architecture, networks, links, applications, and more.
+
