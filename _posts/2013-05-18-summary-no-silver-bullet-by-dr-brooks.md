@@ -10,6 +10,7 @@ body {
 text-align: justify;}
 </style>
 <!-- feature-img: "assets/img/nosilverbullet.jpg" -->
+<img src="/assets/img/nosilverbullet.jpg" alt="silver bullet" width="500"/>
 ![Silver Bullet](/assets/img/nosilverbullet.jpg "Silver Bullet")
 <!-- ###### *Image Credit: <https://goo.gl/LkSG6K>* -->
 
