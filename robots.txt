@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dulalsaurab.github.io/blog//sitemap.xml
+Sitemap: https://dulalsaurab.github.io/sitemap.xml
