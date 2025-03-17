@@ -13,7 +13,7 @@
   contents:
     - title: Ph.D. Computer Science 
       institution: University of Memphis, Memphis, TN
-      year: Jan 2021 - Aug 2023
+      year: Jan '21 - Aug '23
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -23,10 +23,10 @@
       #       - Sub-description 2.
     - title: Master’s Degree in Computer Science
       institution: University of Memphis, Memphis, TN
-      year: Aug 2017 - Dec 2020
+      year: Aug '17 - Dec '20
     - title: Bachelor's Degree in Computer Engineering
       institution: Pulchowk Campus – Institute of Engineering, Tribhuvan University
-      year: Jan 2011 - Oct 2013
+      year: Jan '11 - Oct '13
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -36,7 +36,7 @@
   contents:
     - title: Senior System and Infrastructure Engineer, Cybersecurity
       institution: Walmart Global Tech
-      year: Sept 2023 – March 2025
+      year: Sep '23 – Mar '25
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -46,14 +46,14 @@
       #       - Sub-description 2.
     - title: Research Assistant
       institution: Network Research Lab @ University of Memphis
-      year: Aug. 2017 - Aug. 2023
+      year: Aug. '17 - Aug. '23
       # description:
       #   - Description 1.
       #   - Description 2.
 
     - title: Senior Software Engineer, Business Intelligence
       institution: Logic Information System (LIS), LogicInfo
-      year: Oct 2014 – June 2017
+      year: Oct '14 – June '17
 
     # - title: Professor of Theoretical Physics
     #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
