@@ -15,7 +15,15 @@ tags: [UPD, TCP, Network, Data Transfer, Python]
 <style>
 body {
 text-align: justify}
+
+.responsive-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 </style>
+
 
  [**Github Project Repo**](https://github.com/dulalsaurab/Reliable-data-transfer-using-UDP)
 
@@ -44,7 +52,7 @@ The server facilitates the file transfer process via various methods existing in
 
 
 ## Architecture Diagram
-![alt text](/assets/img/Arctitech .png)
+![alt text](/assets/img/Arctitech.png){: .responsive-img}
 ```
 Figure: UDP file download system architecture
 ```
@@ -58,7 +66,7 @@ The high-level flow, state and the class diagram of the project are shown below.
 
 The flow diagram of the UPD file transfer is shown in the image below.
 
-![alt text](/assets/img/flow chart.png)
+![alt text](/assets/img/flow_chart.png){: .responsive-img}
 
 ```
 Figure: Flow Diagram - UPD file download process using client-server model
@@ -68,7 +76,7 @@ _Note: The symbols used in the flow diagram are adopted from the standard flow d
 
 ## State Diagram
 
-![alt text](/assets/img/State Diagram Client Server.png)
+![alt text](/assets/img/state_diagram_client_server.png){: .responsive-img}
 
 ```
 Figure: State diagram, client-server - request-response process
@@ -80,11 +88,11 @@ Reference: Computer Networking – A top-down approach 6th edition, Kurose, Ross
 ```
 
 ## Class Diagrams
-![alt text](/assets/img/Class Client.png)
+![alt text](/assets/img/class_client.png){: .responsive-img}
 ```
 Figure: Class Diagram UDP Client Program
 ```
-![alt text](/assets/img/Class Diagram Server.png)
+![alt text](/assets/img/class_diagram_server.png){: .responsive-img}
 ```
 Figure: Class Diagram UDP Server Program
 ```

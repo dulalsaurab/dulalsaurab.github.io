@@ -12,12 +12,20 @@ post_name: personalization-versus-filter-bubble
 status: publish
 tags: [Eli Parser, Filter Bubble, Personalization]
 ---
-![Personalization Bubble](https://github.com/dulalsaurab/dulalsaurab.github.io/blob/master/assets/img/bubble_2.png?raw=true)
 
 <style>
 body {
-text-align: justify}
+text-align: justify;
+}
+.responsive-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 </style>
+
+![Personalization Bubble](/assets/img/bubble_2.png) {: .responsive-img}
 
 With growing amount of data on the Internet, the need for information retrieval systems
 i.e. search engines is inarguable. Moreover, to efficiently search such huge volumes of data, 
