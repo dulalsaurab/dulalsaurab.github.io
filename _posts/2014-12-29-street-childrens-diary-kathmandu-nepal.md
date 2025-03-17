@@ -65,8 +65,9 @@ street children like him in Kathmandu is stealing and begging and using the maxi
 in using drugs. According to him, the drug is the right chemical substance with which they can eat 
 any sorts of cheap food they get thrown in street or even if they don’t get food because it makes 
 them so dozy and unconscious whole day that they could survive even without food. He says he wanted 
-to earn a lot of money in his future but he didn’t know the way to earn it. At last, he said me, 
-“Are you going to give me some pennies?” Laughingly after a while, he ran away without taking any money.
+to earn a lot of money in his future but he didn’t know the way to earn it. 
+
+<!-- At last, he said me, “Are you going to give me some pennies?” Laughingly after a while, he ran away without taking any money. -->
 
 
 
@@ -87,8 +88,7 @@ of basic needs. He said he had never gone to school and neither have got any for
   
 
 
-I asked him how he knew this technique. He smilingly replied, “What do you think we street 
-children don’t know anything?” I felt rather this was a simple thing for me as or us. But this 
+I asked him how he knew this technique. He smilingly replied, “hamlai chai kehi aaudaina bhan thannu bha cha ki kya ho" (You think we don't know anything or what?) I felt rather this was a simple thing for me as or us. But this 
 is not simple for those who have not been to school for a single day. We learned science very 
 early in school and are still afraid to plug in a simple wire, but these children know to handle 
 complex wire connections, it was really amazing.
