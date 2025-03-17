@@ -9,8 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    # <p>Walmart Inc.</p>
-    # <p>0.3% of 0.3% of 100%</p>
     <p>Sterling, Virginia</p>
 
 news: false # includes a list of news items
