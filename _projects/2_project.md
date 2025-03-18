@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jagriti (जागृति)
+title: Project Jagriti (जागृति)
 description: Empowering Underprivileged Children with Education and Basic Needs
 img: assets/img/3.jpg
 importance: 2
@@ -102,11 +102,10 @@ To give your project a background in the portfolio page, just add the img tag to
 <div class="container">                      
     <div class="row text-center justify-content-center mb-5">
         <div class="col-xl-6 col-lg-8">
-            <h2 class="font-weight-bold">A Company Evolution</h2>
-            <p class="text-muted">We’re very proud of the path we’ve taken. Explore the history that made us the company we are today.</p>
+            <h2 class="font-weight-bold">Evolution of Jagriti</h2>
+            <!-- <p class="text-muted">We’re very proud of the path we’ve taken. Explore the history that made us the company we are today.</p> -->
         </div>
     </div>
-
     <div class="row">
         <div class="col">
             <div class="timeline-steps aos-init aos-animate" data-aos="fade-up">
@@ -138,32 +137,12 @@ To give your project a background in the portfolio page, just add the img tag to
                         <p class="h6 text-muted mb-0 mb-lg-0">Second Exchange</p>
                     </div>
                 </div>
-                <!-- <div class="timeline-step mb-0">
-                    <div class="timeline-content" data-toggle="popover" data-trigger="hover" data-placement="top" title="" data-content="And here's some amazing content. It's very engaging. Right?" data-original-title="2020">
-                        <div class="inner-circle"></div>
-                        <p class="h6 mt-3 mb-1">2020</p>
-                        <p class="h6 text-muted mb-0 mb-lg-0">In Fortune 500</p>
-                    </div>
-                </div> -->
             </div>
         </div>
     </div>
 </div>
 
-
-
-<!-- <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div> -->
-<!-- <div class="caption">
-    This image can also have a caption. It's like magic.
-</div> -->
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+add text here
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
