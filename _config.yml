@@ -145,7 +145,7 @@ newsletter:
 
 collections:
   projects:
-    output: false
+    output: true
     permalink: /:collection/:title/
 
 announcements:
