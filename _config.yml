@@ -202,7 +202,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - projects
   - repositories
   - people
 keep_files:
