@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A Dark Corner'
-date: 2025-01-25 07:00:00-0400
+date: 2025-04-04 07:00:00-0400
 description: A Dark Corner of Existence
 tags: formatting blockquotes
 categories: blog, fiction
