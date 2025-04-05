@@ -24,31 +24,28 @@ text-align: justify}
 
 ![Am I The Rock](/assets/img/rock-conciousness.png "Rock"){: .responsive-img}
 
-Is this void trying to consume me, or am I the void?
-
 One day, I found myself in utter darkness and silence. It was pitch black—darker than anything I had ever experienced. The closest comparison I can recall is when you shut your eyes tightly, but even then, your other senses still function, and your imagination fills in the blanks with a rough outline of your surroundings.
 
 But here—no sounds, no movement, no light. Just complete darkness and silence.
 
 I wondered: Where am I?
-Am I in open space? Inside a room? A pod?
+Am I in an open space? Inside a room? A pod?
 How big is this place? Did I go to bed last night?
 
 I don’t know.
 I can’t remember.
 
-I tried to move—my arms, legs, head—but nothing happened.
+I tried to move—my arms, legs, and head—but nothing happened.
 Or maybe something did... I just couldn’t tell.
 I don’t even know if I have those body parts anymore.
 
-I remember who I am—my home, family, life experiences—but the memory feels detached. It isn’t inside me. It’s a field—like water. I dip into it, but it isn’t mine. It feels external. Almost like I no longer want to carry it.
-
-I feel weightless, like a balloon drifting aimlessly through the sky.
+I remember who I am—my home, family, life experiences—but the memory feels detached. As if I don't want to carry it, or it may not want to reside within me.
 
 These memories—they don’t feel like mine. More like a shared pool I can access when needed. As if memory is a field, and I’m simply reaching into it. For a moment, I wondered: What if this is the true reality, and everything else I’ve known was just a manifestation?
 
-Just like quantum mechanics suggests—everything is a wave.
-Right now, I feel like I am the wave.
+I feel weightless, like a balloon drifting aimlessly through the sky.
+
+As quantum mechanics suggests—everything is a wave. Right now, I feel like I am the wave.
 
 Maybe what I once thought was “me” was just a collapsed version of this field:
 Me, plus memory, plus... something else.
@@ -57,26 +54,26 @@ I even wonder who the “I” is—who the observer is.
 Wait a minute...
 Am I dreaming?
 
-This could be a dream. And dreams hold endless possibilities.
+This could be a dream, and they hold endless possibilities.
 
-I remember a professor in my undergraduate physics class once asking,
+I remember a professor in my undergraduate physics class once asked,
 “What travels faster than the speed of light?”
 
 Everyone answered, “Nothing.”
 
 He smiled and said, “Wrong—dreams and imagination.”
 
-“You can imagine both ends of the universe in a few seconds,” he said. “Obviously, faster than light.”
+“You can imagine both ends of the universe in a few seconds,” he said. “Faster than light.”
 
 Maybe that’s where I am now.
 Maybe I’m dreaming, and these thoughts—these sensations—are moving faster than light.
-Or maybe I am the thought, throttling through dimensions of space and time.
+Or am I the thought? throttling through dimensions of space and time.
 
 Until now, in that other world—where my body and mind were fully manifest—everything felt obvious. Taken for granted. Concepts like “I,” “self,” and “memory” never needed defining. They just were.
 
 But here… nothing makes sense.
 
-If I am the thought—then who’s experiencing the past? Who’s holding these memories?
+If I am the thought, then who’s experiencing the past? Who’s holding these memories?
 
 Or am I the experience itself—floating in the pool of thought?
 Or are they the same thing, just detached from the body?
@@ -110,10 +107,10 @@ I’d bet even the most terrifying entity wouldn’t enjoy this kind of loneline
 
 Maybe… I’m in a coma.
 
-Maybe I had a stroke, or an accident—something that severed my nervous system from my brain.
+Maybe I had a stroke or an accident—something that severed my nervous system from my brain.
 Maybe I’m in a hospital right now, being kept alive.
 
-But coma patients are supposed to be unconscious. Disconnected from reality. No awareness.
+But coma patients are supposed to be unconscious, disconnected from reality with no awareness.
 
 And I don’t feel like I’m one of them.
 
@@ -154,6 +151,12 @@ And yet… I’m still here.
 Still me.
 
 Still conscious.
+
+I can think. I can reflect. I can manifest memories.
+
+So… am I just living inside my consciousness?
+
+Or is this what it looks like—when consciousness is all that remains?
 
 I can think. I can reflect. I can manifest memories.
 
