@@ -9,7 +9,20 @@ giscus_comments: true
 related_posts: true
 ---
 
-![Am I The Rock](/assets/img/rock-conciousness.png "Logo Title Text 1"){: .responsive-img}
+<style>
+body {
+text-align: justify}
+
+.responsive-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+</style>
+
+![Am I The Rock](/assets/img/rock-conciousness.png "Rock"){: .responsive-img}
 
 Is this void trying to consume me, or am I the void?
 
