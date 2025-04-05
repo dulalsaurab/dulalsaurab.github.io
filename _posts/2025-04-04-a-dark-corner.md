@@ -37,18 +37,18 @@ How big is this place? Did I go to bed last night?
 I don’t know.
 I can’t remember.
 
-I tried to move—my arms, my legs, my head—but nothing happened.
+I tried to move—my arms, legs, head—but nothing happened.
 Or maybe something did... I just couldn’t tell.
 I don’t even know if I have those body parts anymore.
 
-I remember who I am—my home, my family, my life experiences—but the memory feels detached. It isn’t inside me. It’s a field—like water. I dip into it, but it isn’t mine. It feels external. Almost like I no longer want to carry it.
+I remember who I am—my home, family, life experiences—but the memory feels detached. It isn’t inside me. It’s a field—like water. I dip into it, but it isn’t mine. It feels external. Almost like I no longer want to carry it.
 
 I feel weightless, like a balloon drifting aimlessly through the sky.
 
 These memories—they don’t feel like mine. More like a shared pool I can access when needed. As if memory is a field, and I’m simply reaching into it. For a moment, I wondered: What if this is the true reality, and everything else I’ve known was just a manifestation?
 
 Just like quantum mechanics suggests—everything is a wave.
-And right now, I feel like I am the wave.
+Right now, I feel like I am the wave.
 
 Maybe what I once thought was “me” was just a collapsed version of this field:
 Me, plus memory, plus... something else.
@@ -66,7 +66,7 @@ Everyone answered, “Nothing.”
 
 He smiled and said, “Wrong—dreams and imagination.”
 
-“You can imagine both ends of the universe in a few seconds,” he said. “Obviously faster than light.”
+“You can imagine both ends of the universe in a few seconds,” he said. “Obviously, faster than light.”
 
 Maybe that’s where I am now.
 Maybe I’m dreaming, and these thoughts—these sensations—are moving faster than light.
@@ -120,7 +120,7 @@ And I don’t feel like I’m one of them.
 Am I awake? I don’t know.
 Can I respond to my surroundings? I don’t know that either.
 
-But I am thinking. I’m feeling confusion, fear, curiosity.
+But I am thinking. I’m feeling confusion, fear, and curiosity.
 I’m forming questions. I have memories.
 
 Coma patients aren’t supposed to be aware of anything.
