@@ -20,4 +20,4 @@ I am fascinated by patterns of life, the evolution of humans, machines, and the 
 
 I believe that computers are the most beautiful machines ever created by humanity, and I have dedicated most of my professional life to working with them.
 
-Currently, I am a Security Engineer at Walmart Global Tech, where I focus on mitigating cyberattacks, bots, and DDoS threats. I am passionate about various aspects of computing, including architecture, networks, links, applications, and more.
+Currently, I am a Security Engineer at Meta Platforms, where I focus on investigating and mitigating cyberattacks. I am passionate about various aspects of computing, including architecture, networks, links, applications, and more.
