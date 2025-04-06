@@ -10,8 +10,6 @@ related_posts: true
 ---
 
 <style>
-body {
-text-align: justify}
 
 .responsive-img {
   max-width: 100%;
@@ -81,9 +79,10 @@ Or are they the same thing, just detached from the body?
 But why is this so lucid? So real?
 Dreams aren’t like this.
 
-I’ve had thousands of dreams in my life, and not a single one felt anything like this.
+I’ve had thousands of dreams in my life, and none of them felt anything like this.
 
 Am I lucid dreaming?
+
 Is this sleep paralysis?
 
 I tried to scream—I did—but something felt different.
@@ -97,11 +96,11 @@ I’m not struggling.
 
 So... no. This isn’t sleep paralysis.
 
-Where the hell am I?
+Where the hell am I?  
 
-Should I be afraid?
+Should I be afraid?  
 
-Afraid of what?
+Afraid of what?  
 Honestly, I’d welcome the scariest thing imaginable just for the company.
 I’d bet even the most terrifying entity wouldn’t enjoy this kind of loneliness—and might eventually become my friend.
 
