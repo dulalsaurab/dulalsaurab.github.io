@@ -79,10 +79,7 @@ I started picking pennies in September 2017. At the time, I was earning $1,000 a
 By the end of 2017, I found a partner to collect coins with me. Her name is Monika, and she became even better at spotting coins than I was. We shared our story with a few friends, but as expected, none of them followed through on their promises to join us. However, one of our senior friends, Dewashish Koirala, liked the project so much that he gave us a jar full of pennies. His support was mind-blowing and encouraged us to continue our project. As for Monika, I'm smart enough to know not to let her go, so I married her in 2024 - that's a separate story for another time.
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    "We picked up coins amounting to $120 from places that are rarely paid attention to."
     ---
 
 <div class="row">
@@ -113,7 +110,7 @@ By the end of 2017, I found a partner to collect coins with me. Her name is Moni
                 <div class="timeline-step">
                     <div class="timeline-content" data-toggle="popover" data-trigger="hover" data-placement="top" title="" data-content="And here's some amazing content. It's very engaging. Right?" data-original-title="2003">
                         <div class="inner-circle"></div>
-                        <p class="h6 mt-3 mb-1">2018</p>
+                        <p class="h6 mt-3 mb-1">Sept, 2017</p>
                         <p class="h6 text-muted mb-0 mb-lg-0">Journey Started</p>
                     </div>
                 </div>
@@ -153,13 +150,10 @@ add text here
         {% include figure.liquid path="assets/img/project_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<!-- <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div> -->
 
 Monika and I have been on a mission to collect coins like crazy. We've been stared at in surprise by people as we picked up pennies in front of stores like "Save a Lot", "Kroger", and on streets like "Baele Street" and "XYZ streets". Some might have thought us crazy, but we didn't let that deter us. As two foreigners picking up pennies everywhere possible, we were determined to make a difference.
 
-During our morning walks, while shopping, and anywhere else we went, we made it a point to pick up every coin we could find. After almost five years of collecting, in August 2023, we decided to cash them in and open a charity account. Our goal was to create a fund with a primary objective of "Empowering Underprivileged Children with Education and Basic Needsin Nepal in the education sector". We took all the coins we had collected to Walmart and exchanged them. The total amount from our first exchange was $120 - an amazing sum considering it was just coins we had picked up from everywhere. We matched the $120 and added some more, bringing our fund to almost $400. Meanwhile, we've also made a few donations, which we'll detail below.
+During our morning walks, while shopping, and anywhere else we went, we made it a point to pick up every coin we could find. After almost five years of collecting, in August 2022, we decided to cash them in and open a charity account. Our goal was to create a fund with a primary objective of "Empowering Underprivileged Children with Education and Basic Needsin Nepal in the education sector". We took all the coins we had collected to Walmart and exchanged them. The total amount from our first exchange was $120 - an amazing sum considering it was just coins we had picked up from everywhere. We matched the $120 and added some more, bringing our fund to almost $400. Meanwhile, we've also made a few donations, which we'll detail below.
 Donation Details: [To be added]
 
 We'd like to thank everyone who has supported us on this journey. This is just the beginning, and we're excited to share our dreams and plans with you in the coming days.
@@ -171,5 +165,4 @@ Saurab Dulal: 256-665-5731, dulal.saurab@gmail.com
 Together, we can make a difference in the lives of kids in Nepal.
 
 {% raw %}
-
 {% endraw %}
