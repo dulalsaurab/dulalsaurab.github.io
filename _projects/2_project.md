@@ -71,11 +71,12 @@ giscus_comments: true
     }
 </style>
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+We saw coins everywhere - cents, dimes, nickels, quarters - on the streets, in parking lots, in our pockets, on cars, people's windows, and even in curb side trash. After all, it's money, not life-changing amounts, but real dollars nonetheless. In fact, one penny is equivalent to one Nepali rupee. While it's hard to buy anything with a penny here in the US, it can purchase items in other parts of the world, like candy. It can buy a single piece of candy, and for some kids in certain parts of the world, that's a dream come true.
+I know this from personal experience. Growing up, my family wasn't poor, but we didn't have an abundance of wealth either. I had friends who couldn't afford candy, so seeing all these coins everywhere made me think of picking them up. I didn't know what I would do with them, but I decided to start collecting. My rule was simple: wherever I found a coin, I would pick it up, as long as it didn't put my life at risk.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+I started picking pennies in September 2017. At the time, I was earning $1,000 a month, and I thought a quarter was equivalent to 30 Nepali rupees, which could buy a lot of things back home. So, it was a significant amount of money. Four quarters equal a dollar, which is 100 rupees - a substantial sum. As the saying goes, "little drops of water make the mighty ocean."
+
+By the end of 2017, I found a partner to collect coins with me. Her name is Monika, and she became even better at spotting coins than I was. We shared our story with a few friends, but as expected, none of them followed through on their promises to join us. However, one of our senior friends, Dewashish Koirala, liked the project so much that he gave us a jar full of pennies. His support was mind-blowing and encouraged us to continue our project. As for Monika, I'm smart enough to know not to let her go, so I married her in 2024 - that's a separate story for another time.
 
     ---
     layout: page
@@ -152,19 +153,24 @@ add text here
         {% include figure.liquid path="assets/img/project_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
+<!-- <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+</div> -->
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Monika and I have been on a mission to collect coins like crazy. We've been stared at in surprise by people as we picked up pennies in front of stores like "Save a Lot", "Kroger", and on streets like "Baele Street" and "XYZ streets". Some might have thought us crazy, but we didn't let that deter us. As two foreigners picking up pennies everywhere possible, we were determined to make a difference.
+
+During our morning walks, while shopping, and anywhere else we went, we made it a point to pick up every coin we could find. After almost five years of collecting, in August 2023, we decided to cash them in and open a charity account. Our goal was to create a fund with a primary objective of helping kids in Nepal in the education sector.
+We took all the coins we had collected to Walmart and exchanged them. The total amount from our first exchange was $120 - an amazing sum considering it was just coins we had picked up from everywhere. We matched the $120 and added some more, bringing our fund to almost $400. Meanwhile, we've also made a few donations, which we'll detail below.
+Donation Details: [To be added]
+
+We'd like to thank everyone who has supported us on this journey. This is just the beginning, and we're excited to share our dreams and plans with you in the coming days.
+If you'd like to support our project, please don't hesitate to contact us:
+
+Monika Shah: 901-488-8873, monikashah0627@gmail.com
+Saurab Dulal: 256-665-5731, dulal.saurab@gmail.com
+
+Together, we can make a difference in the lives of kids in Nepal.
 
 {% raw %}
-
-```html
-this is something
-```
 
 {% endraw %}
