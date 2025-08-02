@@ -64,7 +64,9 @@ Absolutely no idea.
 
 Am I... dead?
 
-No. No, no, no no no. It can't be true. I don’t want to think that.
+No. No, no, no no no. 
+
+It can't be true. I don’t want to think that.
 
 (I paused for a moment, just the way I used to when taking a deep breath)
 
@@ -72,7 +74,9 @@ But... am I?
 
 Is this what it feels like when we die?
 
-No. No, no no no no. I’m not ready to conclude that. Not until I’ve ruled out every other possibility of still being alive. I am sure I am not dead.
+No. No, no no no noooooo, fuck no. 
+
+I’m not ready to conclude I am dead. Not until I’ve ruled out every other possibility of still being alive. I am sure I am not dead.
 
 (There was a strong sense of denial from within)
 
@@ -88,7 +92,9 @@ My cat?
 
 My parents? My home?
 
-No. No. No. Fuck no. Not like this. I can’t be dead. I can’t. This is just... I don't know, something else. I’m still there. I’m still here. I’m with them. They’re with me. No. Not yet. Not now. I know life is merciless, but not to this degree. Not to the point that I can’t even remember my last moments with them.
+No. No. No. Fuck no. I screamed again.
+
+Not like this. I can’t be dead. I can’t. This is just... I don't know, something else. I’m still there. I’m still here. I’m with them. They’re with me. No. Not yet. Not now. I know life is merciless, but not to this degree. Not to the point that I can’t even remember my last moments with them.
 
 I paused my train of thought. I stopped thinking.
 
@@ -128,11 +134,11 @@ That was sweet. But I told her—“Baby, that’s all lovely and fulfilling. Bu
 
 Then the feeling crept back in: loss, fear blended into something heavier this time. It lasted longer. Have I lost her? Am I not with her anymore? Won’t I ever see her again?
 
-I screamed, No. No, noooooooooooooo!
+I screamed again, for the 4th time, No. No, noooooooooooooo!
 
 No way this is happening, no way it happened. This can’t be true, it is not.
 
-Screamed again, nooooooooooooo, no fuck no, God please have some mercy, no no!
+and 5th time, nooooooooooooo, no fuck no, God please have some mercy, no no!
 
 She must have brought me to the hospital. Whatever happened, she must have called 911. I must be in a coma. Right now. Right here. Sleeping, floating, whatever this is. 
 
@@ -190,7 +196,7 @@ I mean... no. Obviously not. I couldn’t feel my stomach. I didn’t even know 
 
 I decided to shut down. Try to sleep. I hoped, prayed that when I woke up, I wouldn’t be here.
 
-I tried. For hours, maybe.
+I tried to sleep for hours.
 
 But I couldn’t sleep.
 
