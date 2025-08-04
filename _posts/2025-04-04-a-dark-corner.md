@@ -23,6 +23,7 @@ text-align: justify}
 
 </style>
 ![Am I The Rock](/assets/img/rock-conciousness.png "Rock"){: .responsive-img}
+(Part 1)
 
 One day, somewhere, somehow, I found myself in utter numbness, darkness and silence. It was dark, darker than anything I had ever known. The closest comparison I could think of was when you shut your eyes tightly, but even then, your other senses still function. Your imagination fills in the blanks with vague outlines of your surroundings, you will see some flickering or swirling patterns, and you feel pain in the periphery of your eyes as a result of squeezing.
 
