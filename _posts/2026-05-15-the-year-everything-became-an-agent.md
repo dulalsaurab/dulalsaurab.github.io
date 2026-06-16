@@ -28,7 +28,7 @@ It's not a technical spec. It's a map of the territory — drawn while walking i
 
 ---
 
-## Chapter One: The First Agent (Early 2025)
+## The First Agent (Early 2025)
 
 It started with a simple frustration.
 
@@ -110,7 +110,7 @@ Sort of.
 
 ---
 
-## Chapter Two: The Humbling (Mid 2025)
+## The Humbling (Mid 2025)
 
 > "The first version of anything is just a list of assumptions waiting to be disproven."
 
@@ -145,7 +145,7 @@ We needed a different architecture.
 
 ---
 
-## Chapter Three: The Modular Turn (Late 2025)
+## The Modular Turn (Late 2025)
 
 > "The way to build complex systems that work is to build them from simple systems that work."
 > — Kevin Kelly
@@ -206,7 +206,7 @@ An agent doesn't know the difference.
 
 ---
 
-## Chapter Four: The Workflow Revolution (2026)
+## The Workflow Revolution (2026)
 
 > "The future is already here — it's just not evenly distributed."
 > — William Gibson
@@ -270,7 +270,7 @@ The narrative shifted. We stopped asking "how do I make the agent smarter?" and 
 
 ---
 
-## Chapter Five: What I've Learned
+## What I've Learned
 
 ```
 THE PROGRESSION — EACH LAYER ENABLES THE NEXT
